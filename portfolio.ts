@@ -232,7 +232,7 @@ export const projects: ProjectType[] = [
     name: 'Mini Amazon',
     desc: 'Simple Amazon shopping.It includes lists of product, cart, checkout and order pages. used tools(react.js, (pure css, Node.js, database(MongoDB), Firebase(Authentication))',
     github: 'https://github.com/AkliluFita/react_amazon',
-    link: 'https://miniamazone.netlify.app/',
+    // link: 'https://miniamazone.netlify.app/',
   },
   {
     name: 'Blog Post',
